@@ -3,3 +3,6 @@
 ################################################################################
 
 /ExecuteSqlScriptFile.Desktop/bin/Debug
+/.vs/ExecuteSqlScriptFile/v15
+/ExecuteSqlScriptFile/obj/Debug
+/ExecuteSqlScriptFile.Desktop/obj/Debug

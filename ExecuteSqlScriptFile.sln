@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecuteSqlScriptFile", "ExecuteSqlScriptFile\ExecuteSqlScriptFile.csproj", "{C910FCC9-DD7A-4C72-90D9-F86D33714096}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecuteSqlScriptFile.Command", "ExecuteSqlScriptFile.Command\ExecuteSqlScriptFile.Command.csproj", "{1571D2E3-0FAF-4C30-B5DA-D762465DCDDD}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecuteSqlScriptFile.Desktop", "ExecuteSqlScriptFile.Desktop\ExecuteSqlScriptFile.Desktop.csproj", "{4DF38691-4A35-4DEC-AB8F-D5336FFDFD1D}"
 EndProject
 Global
@@ -19,10 +17,6 @@ Global
 		{C910FCC9-DD7A-4C72-90D9-F86D33714096}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C910FCC9-DD7A-4C72-90D9-F86D33714096}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C910FCC9-DD7A-4C72-90D9-F86D33714096}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1571D2E3-0FAF-4C30-B5DA-D762465DCDDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1571D2E3-0FAF-4C30-B5DA-D762465DCDDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1571D2E3-0FAF-4C30-B5DA-D762465DCDDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1571D2E3-0FAF-4C30-B5DA-D762465DCDDD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4DF38691-4A35-4DEC-AB8F-D5336FFDFD1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4DF38691-4A35-4DEC-AB8F-D5336FFDFD1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DF38691-4A35-4DEC-AB8F-D5336FFDFD1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,20 +27,5 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3CEE9F29-B619-40D5-AAB6-C3AA1EC61C22}
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 4
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://fctfs1:8080/tfs/zonafranca
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = ExecuteSqlScriptFile.Command\\ExecuteSqlScriptFile.Command.csproj
-		SccProjectName1 = ExecuteSqlScriptFile.Command
-		SccLocalPath1 = ExecuteSqlScriptFile.Command
-		SccProjectUniqueName2 = ExecuteSqlScriptFile.Desktop\\ExecuteSqlScriptFile.Desktop.csproj
-		SccProjectName2 = ExecuteSqlScriptFile.Desktop
-		SccLocalPath2 = ExecuteSqlScriptFile.Desktop
-		SccProjectUniqueName3 = ExecuteSqlScriptFile\\ExecuteSqlScriptFile.csproj
-		SccProjectName3 = ExecuteSqlScriptFile
-		SccLocalPath3 = ExecuteSqlScriptFile
 	EndGlobalSection
 EndGlobal
