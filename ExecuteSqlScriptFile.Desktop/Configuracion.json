@@ -1,0 +1,132 @@
+﻿{
+  "paths": [ "" ],
+  "conexiones": [
+    {
+      "server": "FCDB4\\DEV",
+      "db": "ZFParque_Trunk_APP",
+      "zf": "",
+      "user": "",
+      "psw": "",
+      "integrada": "true",
+      "ignore": "true"
+    },
+    {
+      "server": "FCDB4\\TEST",
+      "db": "Appolo_App_Demo",
+      "zf": "",
+      "user": "",
+      "psw": "",
+      "integrada": "true",
+      "ignore": "true"
+    },
+    {
+      "server": "zfcayenapro.database.windows.net",
+      "db": "zf-cayena-pro",
+      "zf": "",
+      "user": "cayenapro",
+      "psw": "Rjt3MrnNlbXsW",
+      "integrada": "false",
+      "ignore": "true"
+    },
+    {
+      "server": "mkh23219tp.database.windows.net",
+      "db": "zf-celpa-pro",
+      "zf": "",
+      "user": "celpapro",
+      "psw": "XaR$Pm67tuQ$Qe",
+      "integrada": "false",
+      "ignore": "true"
+    },
+    {
+      "server": "mkh23219tp.database.windows.net",
+      "db": "zf-ecocementos-pro",
+      "zf": "",
+      "user": "ecocementospro",
+      "psw": "WCD6$jEfKxq$348",
+      "integrada": "false",
+      "ignore": "true"
+    },
+    {
+      "server": "mkh23219tp.database.windows.net",
+      "db": "zf-elcayao-pro",
+      "zf": "",
+      "user": "elcayaopro",
+      "psw": "dZqfvBXZ425YS3yvtv0i",
+      "integrada": "false",
+      "ignore": "true"
+    },
+    {
+      "server": "mkh23219tp.database.windows.net",
+      "db": "zf-occidente-pro",
+      "zf": "",
+      "user": "occidentepro",
+      "psw": "JJuwMdrq$6Vp$PD",
+      "integrada": "false",
+      "ignore": "true"
+    },
+    {
+      "server": "mkh23219tp.database.windows.net",
+      "db": "zf-parque-pro",
+      "zf": "",
+      "user": "parquepro",
+      "psw": "S2Eb4$wYPR",
+      "integrada": "false",
+      "ignore": "true"
+    },
+    {
+      "server": "mkh23219tp.database.windows.net",
+      "db": "zf-pereira-pro",
+      "zf": "",
+      "user": "pereirapro",
+      "psw": "cQJTuG$54LA$nC",
+      "integrada": "false",
+      "ignore": "true"
+    },
+    {
+      "server": "mkh23219tp.database.windows.net",
+      "db": "zf-petrobras-pro",
+      "zf": "",
+      "user": "petrobraspro",
+      "psw": "Yu7xt$U3UlOHO$E0S",
+      "integrada": "false",
+      "ignore": "true"
+    },
+    {
+      "server": "mkh23219tp.database.windows.net",
+      "db": "zf-ceramicasl-pro",
+      "zf": "",
+      "user": "ceramicaslpro",
+      "psw": "Xq00KV4CEMTUWrQ1mo6R",
+      "integrada": "false",
+      "ignore": "true"
+    },
+    {
+      "server": "mkh23219tp.database.windows.net",
+      "db": "zf-serena-pro",
+      "zf": "",
+      "user": "serenapro",
+      "psw": "Dqs$RpK$HJjM",
+      "integrada": "false",
+      "ignore": "true"
+    },
+    {
+      "server": "mkh23219tp.database.windows.net",
+      "db": "zf-tayrona-pro",
+      "zf": "",
+      "user": "tayronapro",
+      "psw": "eTD$$q8d3D",
+      "integrada": "false",
+      "ignore": "true"
+    },
+    {
+      "server": "mkh23219tp.database.windows.net",
+      "db": "zf-hispanoamerica-pro",
+      "zf": "",
+      "user": "hispanoamericapro",
+      "psw": "FrXP$nWlLIajVO",
+      "integrada": "false",
+      "ignore": "true"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}
